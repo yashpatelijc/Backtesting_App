@@ -2,3 +2,7 @@ streamlit
 pandas
 numpy
 plotly
+pandasgui
+pyparsing
+graphviz
+fpdf
